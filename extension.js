@@ -1,7 +1,7 @@
 const vscode = require('vscode');
 const axios = require('axios');
 const ChatPanel = require('./src/chatPanel');
-const fileAnalyzer = require('./src/fileAnalyzer');
+const fileAnalyzer = require('./src/fileAnalyzer.js');
 
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
