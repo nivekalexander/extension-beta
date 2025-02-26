@@ -4,3 +4,4 @@ beta/node_modules/
 beta/*.exe
 beta/*.zip
 node_modules/
+.env
