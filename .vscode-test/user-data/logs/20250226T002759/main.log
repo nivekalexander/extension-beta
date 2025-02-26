@@ -1,0 +1,5 @@
+2025-02-26 00:28:00.975 [info] update#setState disabled
+2025-02-26 00:28:00.975 [info] update#ctor - updates are disabled by the environment
+2025-02-26 00:28:01.146 [error] Error: Error mutex already exists
+    at xu.U (file:///C:/flutter_proyects/plantilla/beta/.vscode-test/vscode-win32-x64-archive-1.97.2/resources/app/out/main.js:77:29632)
+2025-02-26 00:28:10.767 [info] Extension host with pid 33872 exited with code: 0, signal: unknown.

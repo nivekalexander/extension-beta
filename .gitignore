@@ -1,0 +1,5 @@
+beta/.vscode-test/
+beta/.vscode/
+beta/node_modules/
+beta/*.exe
+beta/*.zip
